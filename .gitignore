@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/VendingMachines/VendingMachines/obj
+/VendingMachines/.vs/VendingMachines/config/applicationhost.config
+/VendingMachines/.vs/VendingMachines/v16/.suo
